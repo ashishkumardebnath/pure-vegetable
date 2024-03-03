@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+:root {
+  background: white;
+  color: black;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  border-radius: 8px;
+  background: rgb(240, 239, 239);
+}
+::-webkit-scrollbar-thumb {
+  width: 10px;
+  border-radius: 8px;
+  background: #004b3e;
+}
+::-webkit-scrollbar-thumb:hover {
+  width: 10px;
+  border-radius: 8px;
+  background: teal;
+}
+
+.cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #004b3e;
+  z-index: 1000;
+  pointer-events: none;
+}
+.cursor2 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #004b3e;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+@media (max-width: 1130px) {
+  .cursor {
+    display: none;
+  }
+  .cursor2 {
+    display: none;
+  }
+}
+
+@layer components {
+  .animate-updown {
+    animation-name: animate-updownAnim;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+  }
+
+  @keyframes animate-updownAnim {
+    from {
+      transform: translateX(-20px);
+    }
+    to {
+      transform: translateX(20px);
+    }
+  }
+}

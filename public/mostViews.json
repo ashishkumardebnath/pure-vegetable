@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Organic Radish",
+    "price": "12.00",
+    "img": "https://i.ibb.co/xX4rWSt/img2.png"
+  },
+  {
+    "id": "2",
+    "name": "Red Guava",
+    "price": "17.00",
+    "img": "https://i.ibb.co/d580Ns5/img3.png"
+  },
+  {
+    "id": "3",
+    "name": "Fresh Spinach",
+    "price": "20.00",
+    "img": "https://i.ibb.co/ysWbkQ7/img4.png"
+  },
+  {
+    "id": "4",
+    "name": "Organic Nuts",
+    "price": "10.00",
+    "img": "https://i.ibb.co/2ns2jFq/img5.png"
+  },
+  {
+    "id": "5",
+    "name": "Fresh Spinach",
+    "price": "20.00",
+    "img": "https://i.ibb.co/ysWbkQ7/img4.png"
+  },
+  {
+    "id": "6",
+    "name": "Fresh Strawberry",
+    "price": "10.00",
+    "img": "https://i.ibb.co/6XdKZtd/img7.png"
+  },
+  {
+    "id": "7",
+    "name": "Ripe Papaya",
+    "price": "18.00",
+    "img": "https://i.ibb.co/hFRQJ8D/img8.png"
+  },
+  {
+    "id": "8",
+    "name": "Fresh Eggplant",
+    "price": "12.00",
+    "img": "https://i.ibb.co/PmTKfvR/img9.png"
+  }
+]

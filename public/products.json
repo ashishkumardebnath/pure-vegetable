@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Organic Corn",
+    "price": "12.00",
+    "img": "https://i.ibb.co/j5V4mxZ/img2.png"
+  },
+  {
+    "id": "2",
+    "name": "Red Cabbage",
+    "price": "5.00",
+    "img": "https://i.ibb.co/Qfwrc31/img3.png"
+  },
+  {
+    "id": "3",
+    "name": "Fresh Broccoli",
+    "price": "15.00",
+    "img": "https://i.ibb.co/19QG78f/img4.png"
+  },
+  {
+    "id": "4",
+    "name": "Organic Tomato",
+    "price": "16.00",
+    "img": "https://i.ibb.co/Y8C3yWz/img5.png"
+  },
+  {
+    "id": "5",
+    "name": "Natural Peas",
+    "price": "17.00",
+    "img": "https://i.ibb.co/sPqPCPZ/img6.png"
+  },
+  {
+    "id": "6",
+    "name": "Fresh Strawberry",
+    "price": "10.00",
+    "img": "https://i.ibb.co/6XdKZtd/img7.png"
+  },
+  {
+    "id": "7",
+    "name": "Ripe Papaya",
+    "price": "18.00",
+    "img": "https://i.ibb.co/hFRQJ8D/img8.png"
+  },
+  {
+    "id": "8",
+    "name": "Fresh Eggplant",
+    "price": "12.00",
+    "img": "https://i.ibb.co/PmTKfvR/img9.png"
+  }
+]

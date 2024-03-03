@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "David Smith",
+    "date": "Aug 19, 2023",
+    "title": "Organic Food is very important to maintain our good health",
+    "dec": "Organic food is often considered healthier than conventionally grown food for several.",
+    "img": "https://i.ibb.co/NWZ0hyG/img1.png"
+  },
+  {
+    "id": "2",
+    "name": "Salmon Doe",
+    "date": "Aug 17, 2023",
+    "title": "The Future of Organic Food: Innovations and Trends to Watch",
+    "dec": "This post will explore emerging trends and innovations in the organic food industry.",
+    "img": "https://i.ibb.co/M8RKvsb/img2.png"
+  },
+  {
+    "id": "3",
+    "name": "Ethan Nail",
+    "date": "Aug 10, 2023",
+    "title": "Farmers' Stories: The Dedication Behind Organic Food Production",
+    "dec": "Organic farmers, sharing their experiences, challenges, and passion for agriculture.",
+    "img": "https://i.ibb.co/bzy3Ksp/img3.png"
+  },
+  {
+    "id": "4",
+    "name": "Lora Williams",
+    "date": "Aug 5, 2023",
+    "title": "The Benefits of Organic Food: Why You Should Make the Switch",
+    "dec": "The advantages of consuming organic food, such as higher nutrient content",
+    "img": "https://i.ibb.co/hyw5xLD/img4.png"
+  },
+  {
+    "id": "5",
+    "name": "David Smith",
+    "date": "Aug 2, 2023",
+    "title": "Farm-to-table exploring the Beauty of Organic Food Markets",
+    "dec": "Discuss the journey through organic farmers' markets, showcasing the benefits",
+    "img": "https://i.ibb.co/ZHjjSHR/img5.png"
+  },
+  {
+    "id": "6",
+    "name": "Lora Jons",
+    "date": "Aug 1, 2023",
+    "title": "The top 10 must-have Organic foods for a Healthy Pantry",
+    "dec": "List essential organic food items that every health-conscious person should consider.",
+    "img": "https://i.ibb.co/bbDyM47/img6.png"
+  }
+]
